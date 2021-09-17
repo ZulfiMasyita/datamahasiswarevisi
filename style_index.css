@@ -1,0 +1,59 @@
+.tombol_add {
+    background: #9b6bbb;
+    color: white;
+    font-size: 11pt;
+    width: 100%;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+}
+
+.tombol {
+    background: #9b6bbb;
+    color: white;
+    font-size: 11pt;
+    width: 100%;
+    border: none;
+    border-radius: 3px;
+    padding: 5px 15px;
+}
+
+.table {
+    margin: auto;
+    padding: 60px;
+    padding: 15px;
+    border-collapse: inherit;
+    width: 100%;
+    background-color: burlywood;
+}
+
+tbody tr th {
+    background-color: whitesmoke;
+}
+
+.table tr {
+    height: 30px;
+}
+
+.table tr th {
+    padding: 5px 10px;
+    text-align: justify;
+}
+
+.label {
+    padding: 10px;
+}
+
+input {
+    border-radius: 5px;
+    height: 28px;
+    width: 200px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+label {
+    margin-left: 280px;
+    font-family: sans-serif;
+}
